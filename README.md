@@ -14,4 +14,6 @@ I made a backend database and application for an e-commerce site. Add, delete, u
 
 # Walkthrough Video
 
-![](./media/demo.gif)
+![](./media/demo1.gif)
+
+![](./media/demo2.gif)
